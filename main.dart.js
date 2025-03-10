@@ -48964,7 +48964,7 @@ return B.OQ},
 $S:583}
 A.a5e.prototype={
 fo(){var s=this,r=s.r,q=t.N
-return A.aC(["cropId",s.a,"cropName",s.c,"",s.b,"description",s.d,"category",s.e,"images",s.f,"language",r.r3(r,new A.a5g(),q,t.b5)],q,t.z)}}
+return A.aC(["cropId",s.a,"cropName",s.c,"cropImage",s.b,"description",s.d,"category",s.e,"images",s.f,"language",r.r3(r,new A.a5g(),q,t.b5)],q,t.z)}}
 A.a5g.prototype={
 $2(a,b){var s=J.fM(b,new A.a5f(),t.a)
 return new A.bn(a,A.a0(s,!0,s.$ti.i("ay.E")),t.Bt)},
